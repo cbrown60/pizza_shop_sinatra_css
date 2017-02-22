@@ -1,0 +1,46 @@
+body{
+
+  background-image: url(http://www.aryzauq.tv/wp-content/uploads/2016/04/Pizza-capricciosa.jpg);
+  background-size: cover
+}
+
+input {
+
+  color:black;
+  border: 2px;
+   
+
+}
+
+form {
+  padding:15px;
+}
+nav ul {
+  background-color: black;
+}
+nav li {
+
+  color: blue;
+  display: inline;
+ padding: 5px;
+}
+
+
+
+p {
+  color: red;
+}
+
+label {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+h1 {
+  color: white;
+  padding-left: 30%;
+}
+
